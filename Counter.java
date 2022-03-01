@@ -26,7 +26,7 @@ import javafx.scene.input.KeyEvent;
  * This program is simply mimics word counter in MicrosoftWord
  * Inherit from Application class. The main JavaFX class must inherit from Application.
  */
-
+//This is the change I made, by Abundance.
 /**
  * Summary:
  * Details:
